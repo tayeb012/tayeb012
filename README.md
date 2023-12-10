@@ -1,4 +1,4 @@
-Hi  <img align="right" src="https://media.tenor.com/XG19HGEMTwEAAAAi/gving-crypto.gif" width="60" height="60" alt="Giving Crypto" /> My name is Tayeb Hossan
+Hi  <img align="" src="https://media.tenor.com/XG19HGEMTwEAAAAi/gving-crypto.gif" width="60" height="60" alt="Giving Crypto" /> My name is Tayeb Hossan
 
 ====================================================================================================================================
 
