@@ -11,6 +11,10 @@ Junior web devoloper
 * 🧠  I'm learning firebase, nodejs , mongodb
 * ⚡  I love to spend time with family
 
+<div align="right"> <!-- This aligns content to the right -->
+  <img src="https://media.tenor.com/XG19HGEMTwEAAAAi/gving-crypto.gif" width="60" height="60" alt="Giving Crypto" />
+</div>
+
 <a href="https://www.github.com/tayeb012" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tayeb012?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
