@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **tailwind, js, react, nodejs, mongodb, firebase**
 
-- 👨‍💻 All of my projects are available at [https://contest-craft.surge.sh/ , https://savorsphere-eatery.surge.sh/ , https://fashion-and-apparel122.surge.sh/](https://contest-craft.surge.sh/ , https://savorsphere-eatery.surge.sh/ , https://fashion-and-apparel122.surge.sh/)
+- 👨‍💻 All of my projects are available at [https://contest-craft.surge.sh/ , https://savorsphere-eatery.surge.sh/ ](https://contest-craft.surge.sh/ , https://savorsphere-eatery.surge.sh/ )
 
 - 📫 How to reach me **tayebhoss80@gmail.com**
 
