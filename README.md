@@ -6,7 +6,7 @@ Junior web devoloper
 📚 Always eager to learn and grow in the world of web development.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://tayeb-hossan-portfolio.netlify.app)
+* 🖥️  See my portfolio at [Tayeb Hossan](http://tayeb-hossan-portfolio.netlify.app)
 * ✉️  You can contact me at [tayebhoss80@gmail.com](mailto:tayebhoss80@gmail.com)
 * 🧠  I'm learning firebase, nodejs , mongodb
 * ⚡  I love to spend time with family
