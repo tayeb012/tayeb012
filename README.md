@@ -1,4 +1,4 @@
-<img width="400" src="https://i.ibb.co/R6fqBHw/Banner2-23-12-22-20-47-07-281.jpg" alt="Banner2-23-12-22-20-47-07-281" />
+![Banner](https://github.com/tayeb012/tayeb012/blob/main/Banner2_23-12-22_20-47-07-281.jpg)
 
 # My name is Tayeb Hossan  <img src="https://media.tenor.com/XG19HGEMTwEAAAAi/gving-crypto.gif" width="30" height="30" alt="Giving Crypto" />
 
